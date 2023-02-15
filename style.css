@@ -56,7 +56,7 @@ span.slogan{
 .social-img ul li:hover {
   background: #ccc;
 }
-h5{
+h5 , h2 ,h3 {
     color: #594545;
     text-align: center;
     font-size: 1.1rem;
@@ -95,4 +95,23 @@ td, tfoot th, thead td, thead th {
     font-weight: 700;
     text-align: center;
 }
+
+.contact {
+    margin: auto;
+    text-align: center;
+    max-width: 60%;
     
+}
+.button {
+    background-color: aquamarine;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 100px;
+}
